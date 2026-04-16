@@ -10,9 +10,10 @@ I focus on creating clean, efficient, and scalable applications using modern web
 ## 🛠️ Tech Stack
 
 - Frontend: Vue.js, JavaScript, HTML, CSS
-- Backend: Laravel, PHP
+- Backend: Laravel, PHP, Postman
 - Database: MySQL, PostgreSQL, Oracle
 - Tools: Git, REST APIs
+- Design: Figma
 
 ---
 
