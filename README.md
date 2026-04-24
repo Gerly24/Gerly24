@@ -80,11 +80,10 @@ Building clean, scalable, and efficient web applications using modern technologi
 
 ---
 
-## 🧠 Most Used Languages
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerly24&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
