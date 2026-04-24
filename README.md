@@ -9,11 +9,45 @@ I focus on creating clean, efficient, and scalable applications using modern web
 
 ## 🛠️ Tech Stack
 
-- Frontend: Vue.js, JavaScript, HTML, CSS
-- Backend: Laravel, PHP, Postman
-- Database: MySQL, PostgreSQL, Oracle
-- Tools: Git, REST APIs
-- Design: Figma
+### Frontend
+<p>
+  <img src="assets/vue.png" width="40"/>
+  <img src="assets/javascript.png" width="40"/>
+  <img src="assets/html.png" width="40"/>
+  <img src="assets/css3.png" width="40"/>
+  <img src="assets/tailwind.png" width="40"/>
+</p>
+
+### Backend
+<p>
+  <img src="assets/laravel.png" width="40"/>
+  <img src="assets/php.png" width="40"/>
+</p>
+
+### Database
+<p>
+  <img src="assets/mysql.png" width="40"/>
+  <img src="assets/postgre.png" width="40"/>
+  <img src="assets/oracle.png" width="40"/>
+</p>
+
+### Tools
+<p>
+  <img src="assets/git.png" width="40"/>
+  <img src="assets/postman.png" width="40"/>
+  <img src="assets/vscode.png" width="40"/>
+</p>
+
+### Design
+<p>
+  <img src="assets/figma.png" width="40"/>
+</p>
+
+### Hosting
+<p>
+  <img src="assets/netlify.png" width="40"/>
+  <img src="assets/railway.png" width="40"/>
+</p>
 
 ---
 
