@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <h1 align="center">Hi, I'm Gerly 👋</h1>
 <h3 align="center">Full Stack Web Developer (3+ Years Experience)</h3>
 
@@ -71,11 +71,19 @@ Building clean, scalable, and efficient web applications using modern technologi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerly24&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerly24&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -88,9 +96,7 @@ Improving full-stack architecture skills and building production-ready, scalable
 
 ## 📬 Contact
 
-<p>
-📧 Email: <b>gerlyhernandezt@gmail.com</b>
-</p>
+📧 Email: **gerlyhernandezt@gmail.com**
 
 ---
 
