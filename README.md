@@ -9,45 +9,51 @@ I focus on creating clean, efficient, and scalable applications using modern web
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="assets/vue.png" width="60" style="margin: 12px;"/>
-  <img src="assets/javascript.png" width="60" style="margin: 12px;"/>
-  <img src="assets/html.png" width="60" style="margin: 12px;"/>
-  <img src="assets/css3.jpg" width="60" style="margin: 12px;"/>
-  <img src="assets/tailwind.png" width="60" style="margin: 12px;"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Frontend</strong><br/>
+      <img src="assets/vue.png" width="40" style="margin:8px;"/>
+      <img src="assets/javascript.png" width="40" style="margin:8px;"/>
+      <img src="assets/html.png" width="40" style="margin:8px;"/>
+      <img src="assets/css3.jpg" width="40" style="margin:8px;"/>
+      <img src="assets/tailwind.png" width="40" style="margin:8px;"/>
+    </td>
 
-### Backend
-<p>
-  <img src="assets/laravel.png" width="60" style="margin: 12px;"/>
-  <img src="assets/php.png" width="60" style="margin: 12px;"/>
-</p>
+    <td align="center">
+      <strong>Backend</strong><br/>
+      <img src="assets/laravel.png" width="40" style="margin:8px;"/>
+      <img src="assets/php.png" width="40" style="margin:8px;"/>
+    </td>
 
-### Database
-<p>
-  <img src="assets/mysql.png" width="60" style="margin: 12px;"/>
-  <img src="assets/postgre.png" width="60" style="margin: 12px;"/>
-  <img src="assets/oracle.png" width="60" style="margin: 12px;"/>
-</p>
+    <td align="center">
+      <strong>Database</strong><br/>
+      <img src="assets/mysql.png" width="40" style="margin:8px;"/>
+      <img src="assets/postgre.png" width="40" style="margin:8px;"/>
+      <img src="assets/oracle.png" width="40" style="margin:8px;"/>
+    </td>
+  </tr>
 
-### Tools
-<p>
-  <img src="assets/git.png" width="60" style="margin: 12px;"/>
-  <img src="assets/postman.png" width="60" style="margin: 12px;"/>
-  <img src="assets/vscode.png" width="60" style="margin: 12px;"/>
-</p>
+  <tr>
+    <td align="center">
+      <strong>Tools</strong><br/>
+      <img src="assets/git.png" width="40" style="margin:8px;"/>
+      <img src="assets/postman.png" width="40" style="margin:8px;"/>
+      <img src="assets/vscode.png" width="40" style="margin:8px;"/>
+    </td>
 
-### Design
-<p>
-  <img src="assets/figma.png" width="60" style="margin: 12px;"/>
-</p>
+    <td align="center">
+      <strong>Design</strong><br/>
+      <img src="assets/figma.png" width="40" style="margin:8px;"/>
+    </td>
 
-### Hosting
-<p>
-  <img src="assets/netlify.png" width="60" style="margin: 12px;"/>
-  <img src="assets/railway.png" width="60" style="margin: 12px;"/>
-</p>
+    <td align="center">
+      <strong>Hosting</strong><br/>
+      <img src="assets/netlify.png" width="40" style="margin:8px;"/>
+      <img src="assets/railway.png" width="40" style="margin:8px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
