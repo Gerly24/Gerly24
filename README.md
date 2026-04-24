@@ -14,7 +14,7 @@ I focus on creating clean, efficient, and scalable applications using modern web
   <img src="assets/vue.png" width="40"/>
   <img src="assets/javascript.png" width="40"/>
   <img src="assets/html.png" width="40"/>
-  <img src="assets/css3.png" width="40"/>
+  <img src="assets/css3.jpg" width="40"/>
   <img src="assets/tailwind.png" width="40"/>
 </p>
 
