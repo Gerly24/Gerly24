@@ -1,8 +1,8 @@
 # Hi, I'm Gerly 👋
 
-## 💻 System Developer (IT Staff) | 3 Years Experience
+## 💻 Full Stack Web Developer
 
-I am a System Developer with 3 years of experience building and maintaining web-based systems.  
+I am a Full Stack Web Developer with 3 years of experience building and maintaining web-based systems.  
 I focus on creating clean, efficient, and scalable applications using modern web technologies.
 
 ---
