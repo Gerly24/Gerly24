@@ -68,4 +68,3 @@ Improving my full-stack development skills and building production-ready applica
 
 ## 📬 Contact Me
 - 📧 Email: gerlyhernandezt@gmail.com
-<img width="634" height="1285" alt="image" src="https://github.com/user-attachments/assets/8af57b2c-6ed9-4157-a08a-2b72218c1781" />
