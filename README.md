@@ -70,9 +70,9 @@ Building clean, scalable, and efficient web applications using modern technologi
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerly24&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerly24&theme=tokyonight" />
