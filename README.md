@@ -23,6 +23,7 @@ Building clean, scalable, and efficient web applications using modern technologi
 ### Frontend
 <p>
   <img src="assets/vue.png" width="45"/>
+  <img src="assets/react.png" width="45"/>
   <img src="assets/javascript.png" width="45"/>
   <img src="assets/html.png" width="45"/>
   <img src="assets/css3.jpg" width="45"/>
